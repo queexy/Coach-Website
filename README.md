@@ -5,7 +5,7 @@ Projekt demonstracyjny do portfolio – wykonanie: **Queexy**
 ---
 ## Link do strony
 
-ephemeral-axolotl-358c6b.netlify.app
+[ephemeral-axolotl-358c6b.netlify.app](https://ephemeral-axolotl-358c6b.netlify.app/)
 
 ## Opis
 
