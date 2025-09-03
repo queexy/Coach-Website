@@ -20,9 +20,9 @@ To jest nieoficjalna, pokazowa strona trenera personalnego, stworzona w celach d
 ## Uruchomienie
 1. Sklonuj repozytorium:
    ```bash
-   git clone <adres_repozytorium>
+   git clone
    ```
-2. Otwórz plik `coach/index.html` w przeglądarce.
+2. Otwórz plik `index.html` w przeglądarce.
 3. (Opcjonalnie) Skompiluj plik `style.scss` do `style.css` jeśli chcesz wprowadzać zmiany w stylach.
 
 ## Autor
@@ -34,7 +34,7 @@ Projekt wykonany przez **Queexy**.
 - Kod oraz layout mogą być dowolnie modyfikowane na potrzeby własnych prezentacji.
 
 ## Kontakt
-W sprawie współpracy lub pytań: [Twój e-mail lub kontakt LinkedIn]
+W sprawie współpracy lub pytań: kotnaktqueexy@gmail.com
 
 ---
 
